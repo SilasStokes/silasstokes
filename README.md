@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Silas. I am a software developer for a nonprofit community organization, [Daybreak Star Radio Network](https://daybreakstarradio.com), where we are indigenizing the airwaves, amplifying native voices and, I get to make some cool software ✨. 
+
+**All the things**
+- ⚒️ I am currently working on my web technology skills including TypeScript and React.
+- 📜 Check out my [blog](www.silasstokes.com) where I write about projects I've done.
+- 🎼 I produce music (ableton gang 😤), here's my [soundcloud](https://soundcloud.com/silasstokes/tracks)
+
+
 <!--
 **SilasStokes/silasstokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
