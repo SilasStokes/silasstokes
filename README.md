@@ -4,7 +4,7 @@ My name is Silas. I am a software developer for a nonprofit community organizati
 
 **All the things**
 - ⚒️ I am currently working on my web technology skills including TypeScript and React.
-- 📜 Check out my [blog](silasstokes.com) where I write about projects I've done.
+- 📜 Check out my [blog](https://silasstokes.com/) where I write about projects I've done.
 - 🎼 I produce music (ableton gang 😤), here's my [soundcloud](https://soundcloud.com/silasstokes/tracks)
 
 
